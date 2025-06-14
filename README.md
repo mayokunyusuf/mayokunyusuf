@@ -43,7 +43,7 @@
 
 ---
 
-<h2 align="center">✍️ Latest Blog Posts</h2>
+<h2 align="center">✍️ Latest Articles</h2>
 
 - [Securing Android Apps: Best Practices for Developers](https://medium.com/towardsdev/securing-android-apps-best-practices-for-developers-3e1734101cee)
 - [Building Apps for Android TV](https://medium.com/@mayokunyusuf/building-apps-for-android-tv-fc8697ae6d87)
