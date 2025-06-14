@@ -33,13 +33,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mayokunyusuf&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Mayokun's GitHub Stats">
 </p>
+-->
 
 <h3 align="center">📊 Top Languages</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayokunyusuf&layout=compact&theme=dark" alt="Mayokun's Top Languages">
 </p>
--->
 
 ---
 
