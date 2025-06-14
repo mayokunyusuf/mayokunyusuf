@@ -15,32 +15,35 @@
 <h2 align="center">💻 Technologies & Tools</h2>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg" alt="Kotlin" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg" alt="Swift" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" alt="Android" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" alt="RoomDB" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg" alt="Swift" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/RoomDB-%23000000.svg?&style=for-the-badge&logo=android&logoColor=white" alt="RoomDB"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
 ---
 
+<!--
 <h2 align="center">🚀 My GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mayokunyusuf&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Mayokun's GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayokunyusuf&layout=compact&theme=dark" alt="Mayokun's Top Languages">
 </p>
+-->
 
 ---
 
 <h2 align="center">✍️ Latest Blog Posts</h2>
 
-- [Securing Android Apps: Best Practices for Developers]([https://medium.com/@mayokunyusuf/your-blog-post-link-1](https://medium.com/towardsdev/securing-android-apps-best-practices-for-developers-3e1734101cee))
-- [Building Apps for Android TV]([https://medium.com/@mayokunyusuf/your-blog-post-link-2](https://medium.com/@mayokunyusuf/building-apps-for-android-tv-fc8697ae6d87))
-- [Kotlin Android For Beginners]([https://medium.com/@mayokunyusuf/your-blog-post-link-3](https://medium.com/@mayokunyusuf/kotlin-android-for-beginners-6d0dac974374))
+- [Securing Android Apps: Best Practices for Developers](https://medium.com/towardsdev/securing-android-apps-best-practices-for-developers-3e1734101cee)
+- [Building Apps for Android TV](https://medium.com/@mayokunyusuf/building-apps-for-android-tv-fc8697ae6d87)
+- [Kotlin Android For Beginners](https://medium.com/@mayokunyusuf/kotlin-android-for-beginners-6d0dac974374)
+
 ---
 
 <!--
