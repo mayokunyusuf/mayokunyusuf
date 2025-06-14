@@ -1,6 +1,6 @@
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-profile)]([https://linkedin.com/in/mayokun-dev](https://www.linkedin.com/in/mayokun-yusuf-187a9717b/))
-[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=[https://medium.com/@yourusername](https://medium.com/@mayokunyusuf)))]([https://medium.com/@yourusername](https://medium.com/@mayokunyusuf)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mayokun-yusuf-187a9717b/)
+[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@mayokunyusuf)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/mayosbobo)
 
 ## 👨🏻‍💻 About Me  
