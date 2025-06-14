@@ -58,6 +58,10 @@
   Exploring cross-platform development with Flutter and improving my cloud architecture skills.
 </p>
 -->
+<h2 align="center">✍️ Presentations</h2>
+
+- [Android Automotive](https://docs.google.com/presentation/d/1sP-pbcyLYc8HTJubAfnvHtQg3b90GeWs/edit?usp=sharing&ouid=102360204638391843869&rtpof=true&sd=true)
+- [Memory Leaks in Android](https://docs.google.com/presentation/d/1LttSI87FUjzQnLe0Ro7_ynd9CF_DSgNo/edit?usp=sharing&ouid=102360204638391843869&rtpof=true&sd=true)
 
 ---
 
