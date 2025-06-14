@@ -12,15 +12,6 @@ I'm a passionate **Senior Mobile Developer** with over 5 years of experience bui
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![RoomDB](https://img.shields.io/badge/RoomDB-007396?style=for-the-badge&logo=android&logoColor=white)
-![NFC](https://img.shields.io/badge/NFC-000000?style=for-the-badge&logo=nfc&logoColor=white)
-
----
-
-### 🔥 My GitHub Stats
-
-[![Mayokun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayokun-dev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayokun-dev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
