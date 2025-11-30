@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Mayokun!</h1>
 
 <p align="center">
-  A passionate <b>Senior Mobile Developer</b> with over 5 years of experience building scalable mobile applications using <b>Kotlin</b>, <b>Java</b>, and <b>Jetpack Compose</b>. I currently specialize in native Android development, with additional experience in <b>iOS (Swift)</b>.
+  A passionate <b>Senior Mobile Developer</b> with over 7 years of experience building scalable mobile applications using <b>Kotlin</b>, <b>Java</b>, <b>Jetpack Compose</b>, and <b>Kotlin Multiplatform (KMP)</b>. I specialize in native Android and cross-platform development with shared Kotlin code, with additional experience in <b>iOS (Swift)</b>.
 </p>
 
 <p align="center">
